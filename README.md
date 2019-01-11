@@ -13,15 +13,6 @@ This is website for discount sharing based on VueJS (front-end) and NodeJS(back-
 ## Deal Detail Page: TOP 10 Liked Deals recommend bar
 ![alt text](https://github.com/oliveDY/dealhub.today/blob/master/TOP_10_liked_deals.png?raw=true)
 
-## Deal Detail Page: comment card
-![alt text](https://github.com/oliveDY/dealhub.today/blob/master/comment_card.png?raw=true)
-
-## Deal Edit Page:
-![alt text](https://github.com/oliveDY/dealhub.today/blob/master/deal_editpage.png?raw=true)
-
-## Upload Image Link Page:
-![alt text](https://github.com/oliveDY/dealhub.today/blob/master/imagelink_upload.png?raw=true)
-
 ## Deal Card:
 ![alt text](https://github.com/oliveDY/dealhub.today/blob/master/deal_card.png?raw=true)
 
@@ -33,6 +24,15 @@ This is website for discount sharing based on VueJS (front-end) and NodeJS(back-
 
 ## Search a Deal:
 ![alt text](https://github.com/oliveDY/dealhub.today/blob/master/searchbar.png?raw=true)
+
+## Deal Detail Page: comment card
+![alt text](https://github.com/oliveDY/dealhub.today/blob/master/comment_card.png?raw=true)
+
+## Deal Edit Page:
+![alt text](https://github.com/oliveDY/dealhub.today/blob/master/deal_editpage.png?raw=true)
+
+## Upload Image Link Page:
+![alt text](https://github.com/oliveDY/dealhub.today/blob/master/imagelink_upload.png?raw=true)
 
 ## User Signin Page:
 ![alt text](https://github.com/oliveDY/dealhub.today/blob/master/signin_page.png?raw=true)
