@@ -38,5 +38,5 @@ This is website for discount sharing based on VueJS (front-end) and NodeJS(back-
 ![alt text](https://github.com/oliveDY/dealhub.today/blob/master/signin_page.png?raw=true)
 
 ## * User Signup Page:
-![alt text](https://github.com/oliveDY/dealhub.today/blob/master/signup_page.png?raw=true
+![alt text](https://github.com/oliveDY/dealhub.today/blob/master/signup_page.png?raw=true)
 
