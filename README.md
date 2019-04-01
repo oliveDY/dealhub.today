@@ -1,4 +1,4 @@
-# dealhub.today
+# Dealhub.today
 This is website for discount sharing based on VueJS (front-end) and NodeJS(back-end).
 ## * Run the application:
 Front-end command line: npm run serve  
